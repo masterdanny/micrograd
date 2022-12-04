@@ -1,3 +1,4 @@
+# Some tiny changes on the README
 
 # micrograd
 
